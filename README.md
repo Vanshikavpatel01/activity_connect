@@ -1,2 +1,2 @@
-# activity-connect
+#  Activity-connect
 AI-Powered Activity Matchmaker
